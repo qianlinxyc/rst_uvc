@@ -1,0 +1,3 @@
+interface rst_uvc_if(input bit clk);
+    logic rst;
+endinterface : rst_uvc_if
